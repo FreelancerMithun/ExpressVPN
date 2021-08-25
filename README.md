@@ -11,7 +11,7 @@ There are many VPN service providers that claim that they can secure the identit
 With Express VPN, users’ internet traffic is encrypted. IP addresses are concealed and this is the first step towards total protection from phishing scams. Hackers and spies will fail to claim any valuable information about you, such as your credit card details, current location, and most importantly, the details of your property (if you’re using VPN to monitor your property from a remote location).expressvpn most popular plan is 12 month,expressvpn offering 49% discount code for 12 months package. that's why this is the most popular package.You can take advantage of ExpressVPN's three-month free trial <a href="https://vpnstart.com/expressvpn-coupon-code/">offer by visiting vpnstart.com</a>
 
 
-3. Online freedom. Express VPN provides a way for users to view any website – even websites with censorship. Applications that have censorship features are also unlocked, giving users the ultimate freedom to browse all four corners for the World Wide Web.
+<h3>3. Online freedom.</h3> Express VPN provides a way for users to view any website – even websites with censorship. Applications that have censorship features are also unlocked, giving users the ultimate freedom to browse all four corners for the World Wide Web.
 
 The best thing about Express VPN is that the set up is very straightforward. After users sign up, install, and connect, they can now use the VPN from their chosen device – PC, laptop, tablet, or smart phone.
 
